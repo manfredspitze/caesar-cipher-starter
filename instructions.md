@@ -17,8 +17,6 @@ https://github.com/manfredspitze/caesar-cipher-starter
 
 3. Then make a new folder on your workstation desktop; add a *main.py* file to this folder.
 
-4. Read the *instructions.md* file.
-
-5. After writing your code in *main.py*, upload your finished Python file to your GitHub repo.
+4. After writing your code in *main.py*, upload your finished Python file to your GitHub repo.
 
 
